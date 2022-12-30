@@ -1,4 +1,4 @@
-# Variational-calculus-Image-processing
+# Variational computing - Image processing
 
 #### 👨‍🎓 This project was carried out during my master's degree in computer vision at URJC - Madrid
 
