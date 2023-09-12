@@ -110,4 +110,4 @@ run ```'01 - Denoising'/main.m``` or ```'02 - Impaiting & Deconvolution'/main.m`
 
 ## Authors
 
-* **Luis Rosario** - *Initial work* - [Luisrosario2604](https://github.com/Luisrosario2604)
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)
